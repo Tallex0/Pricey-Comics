@@ -1,6 +1,6 @@
 # Comics: Children’s Books or Luxury Artpieces?
 -
-Welcome to this dataset! I've compiled a list of the highest sold comic books released each year since 1938 (in USD) up to 2021. In this dataset, I investigated some of the highest valued comic books sold of all time from every year from 1938-2021, and seen just how much money people were paying for these things. DISCLAIMER: The data collected here is from my own personal research from the internet, and I've only seen the sales from stuff on the internet, and all data was recorded before 06/23/2023. Here are some things to note:
+Welcome to this dataset! I've compiled a list of the highest sold comic books released each year since 1938 (in USD) up to 2021. In this dataset, I investigated some of the highest valued comic books sold of all time from every year from 1938-2021, and seen just how much money people are paying for these things. DISCLAIMER: The data collected here is from my own personal research from the internet, and I've only seen the sales from stuff on the internet, and all data was recorded before 06/23/2023. Here are some things to note:
 
 -
 
