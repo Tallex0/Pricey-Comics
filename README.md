@@ -16,7 +16,9 @@ Welcome to this dataset! I've compiled a list of the highest sold comic books re
 
 From my findings, I notice that most key comic books nowadays seem to have turned into just another luxury item for millionaires, like NFTs and rare artwork.
 
-#DEFINITIONS
+-
+
+DEFINITIONS
 
 -
 
