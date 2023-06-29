@@ -12,6 +12,8 @@ Welcome to this dataset! I've compiled a list of the highest sold comic books re
 
 -Note that ComicBookRealm.com prices a CGC 9.8 copy of Action Comics #1 at $6,000,000, although it is unlikely that that high grade of a copy exists.
 
+-Note about the Tableau Dashboard: some of the images chosen were not the actual comics sold, and may have been reprints (none really from the oldies, some from 70s, and 80s were by accident chosen by me as the picture of the reprint copy instead of the original). In these few instances, the reprints look almost identical to the actual copies with the exception of a cover price difference. I apologize about this, and may fix the few images some day, but I spent so much time on this project trying to get it to work that I will leave it for now.
+
 -
 
 From my findings, I notice that most key comic books nowadays seem to have turned into just another luxury item for millionaires, like NFTs and rare artwork.
