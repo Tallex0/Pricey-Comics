@@ -44,6 +44,6 @@ DEFINITIONS
 
 -Variant: a variant is a copy of a comic book with an alternate title, or other attribute different from the issue is a variant of. An alternate cover is one of the most common types of variants.
 
--1:x variant: a type of variant that is a ratio of how rare it is compared to other issues. For example, 1:2 variant means that 1 copy of the variant is produced for every 2 copies of the original comic, 1:5000 means 1 copy is produced for every 5,0000 copies of the original. 
+-1:x variant: a type of variant that is a ratio of how rare it is compared to other issues. For example, 1:2 variant means that 1 copy of the variant is produced for every 2 copies of the original comic, 1:5000 means 1 copy is produced for every 5,000 copies of the original. 
 
 -
